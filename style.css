@@ -1,0 +1,17 @@
+* {
+      margin: 0;
+}
+
+
+#back {
+      background-color: lightgray;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+     
+}
+
+#sign {
+      font-size: 2rem;
+}
